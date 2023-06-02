@@ -9,5 +9,4 @@
 <code><img height="20" alt="android" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png"></code>
 <code><img height="20" alt="aws" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 
-| <a href="https://github.com/aerovulpe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aerovulpe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aaron's GitHub stats" /></a> | <a href="https://github.com/aerovulpe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerovulpe&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/aerovulpe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerovulpe&layout=compact&theme=buefy&hide_border=true" /></a>
